@@ -50,7 +50,7 @@ pip install openai flask pyyaml python-dotenv
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/Abdulmalik740/Brand_consistent_chatbot.git
+git clone https://github.com/nidaarshad329-a11y/Brand_Aware-Chatbot.git
 cd Brand_consistent_chatbot
 ```
 
